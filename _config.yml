@@ -1,0 +1,18 @@
+# Site settings — edit these to make the site yours
+title: DronePros.net
+tagline: Aerial Photography & Videography
+description: DronePros.net — aerial photography and videography for real estate, events, and brands since 2014. FAA UAS Part 107 Licensed & Fully Insured.
+url: https://www.rediscoveryourworld.com
+baseurl: ""
+
+# GitHub Pages build settings
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+# Exclude helper files from the built site
+exclude:
+  - download_images.py
+  - README.md

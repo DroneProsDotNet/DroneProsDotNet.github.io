@@ -1,0 +1,70 @@
+# Videos page content. `youtube` is the 11-character YouTube video ID.
+- category: Latest Videos
+  items:
+    - youtube: 0anl5ozhZOE
+      title: The North Shore
+      desc: Aerial footage capturing the beauty of Massachusetts' coastal towns North of Boston.
+    - youtube: wRxlBykGpzc
+      title: Snow Covered MIT
+      desc: Aerial Footage of MIT's campus and the Boston Skyline after a snowstorm hits the city.
+    - youtube: vvxo-ZeHDV8
+      title: The South Shore
+      desc: Aerial footage capturing the beauty of Massachusetts' coastal towns South of Boston.
+- category: Promotional
+  items:
+    - youtube: Qd_aXyLJxnA
+      title: Coastal Heritage Bank
+      desc: This commercial showcases some of the most famous landmarks on the South Shore of Massachusetts.
+    - youtube: OZqGCYITRy4
+      title: Massachusetts Institute of Technology
+      desc: Aerial footage reveals MIT's beautiful campus ideally located on the edge of the the Charles River in Charlestown, Massachusetts.
+    - youtube: Ek0I-KDk0ZE
+      title: Triumvirate Environmental
+      desc: Triumvirate Environmental's national presence is demonstrated through aerial footage of major cities and monuments across the United States.
+- category: Travel
+  items:
+    - youtube: kJCsMMFBGrc
+      title: San Francisco, CA
+      desc: We took our DJI Inspire 1 and Phantom 3 Professional to California to capture aerial footage of beautiful San Francisco. Flying from Treasure Island, Sausalito and Alta Plaza Park results in incredible shots of the Golden City.
+    - youtube: sOrs2Bum_7Q
+      title: Chicago, IL
+      desc: Located in downtown Chicago, Grant Park is a beautiful piece of land on the shore of Lake Michigan. From the air, many of the most famous sites including, the Bean, Buckingham Fountain and the Navy Pier can be seen.
+    - youtube: MQkAQgiyYtY
+      title: US Virgin Islands
+      desc: A vacation to the Virgin Islands is a perfect opportunity to gather great aerial footage. Island sunsets, coral reefs, wake surfing and even a bit of Dingy-Flingy can all be seen in this video.
+    - youtube: NT8gJ47ltwU
+      title: New York City, NY
+      desc: The New York skyline is one of the most recognizable sites in the world. Our DJI Inspire 1 captured the Statue of Liberty, the Empire State Building and the World Trade Center flying from Liberty State Park and Hamilton Park.
+- category: Nature
+  items:
+    - youtube: YsMUfm_N82o
+      title: Snowy Day - Melrose, MA
+      desc: Aerial footage after a snow storm in beautiful Melrose, Massachusetts. Rising above a neighborhood reveals an amazing view of the snow covered town.
+    - youtube: rZGDStLxyEU
+      title: A Dog's Snow Day
+      desc: Find out what it is like to have a fun day in the snow for a dog. A GoPro reveals this interesting perspective of Puckerman's snow day.
+    - youtube: 7NDbFy2GUyg
+      title: Aerial Footage of Whales
+      desc: Stellwagen Bank is one of 14 Marine Sanctuary sites in the United States that act as reserves for animals of all sizes. Our drone provides an incredible view of humpback whales in their natural habitat as they dive deep and jump out of the water.
+- category: Real Estate
+  items:
+    - youtube: 4w4zVwP2yaM
+      title: Log Home - Uxbridge, MA
+      desc: This unique house in Uxbridge, Massachusetts is the perfect home for a family that wants to connect with nature.
+    - youtube: S6L2KqalXpc
+      title: Farmhouse - Bolton, MA
+      desc: This farmhouse is a rural paradise for homeowners that appreciate the simpler things in life.
+    - youtube: z2y_MEVos98
+      title: Hilltop - Bolton, MA
+      desc: This incredible hilltop house boasts all the amenities of elevated living.
+- category: Events
+  items:
+    - youtube: AppyO2hcPsE
+      title: Senior Week Lawn Party
+      desc: Aerial footage of the perfect end to the school year for these highschool students as the celebrate on the front lawn of Boston College High School.
+    - youtube: BHsyTJt0cLc
+      title: Annual Snow Row
+      desc: Hull Lifesaving Museum's Annual Snow Row is a fun and exciting race for people of all ages and skill levels. Watch these rowers race across the course toward the finish line.
+    - youtube: QXtnf0LCWdQ
+      title: Nantasket Beach Car Show
+      desc: Cars of all types cover the beach for the Nantasket Beach Car Show. Check out this video to see these classic cars from the air.

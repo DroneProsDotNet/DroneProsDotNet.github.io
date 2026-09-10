@@ -1,0 +1,27 @@
+# Photo gallery — add or remove entries freely. `file` is the name in assets/img/.
+- file: gallery-whale-photo.jpg
+  caption: The Whale Photo
+- file: gallery-soaring-with-bird.jpg
+  caption: Soaring with Bird
+- file: gallery-geese-textured-water.jpg
+  caption: Geese in Textured Water
+- file: gallery-main-building.jpg
+  caption: Main Building
+- file: gallery-salem-lighthouse.jpg
+  caption: Salem Lighthouse
+- file: gallery-mit-over-water.jpg
+  caption: MIT Over Water
+- file: gallery-incarnation-church.jpg
+  caption: Incarnation Church
+- file: gallery-scituate-lighthouse.jpg
+  caption: Scituate Lighthouse
+- file: gallery-hilltop-house.jpg
+  caption: Hilltop House
+- file: gallery-baseball-low-close.jpg
+  caption: Baseball, Low and Close
+- file: gallery-campfire.jpg
+  caption: Campfire
+- file: gallery-fisherman-working.jpg
+  caption: Fisherman Working
+- file: gallery-mountain-valley-resort.jpg
+  caption: Mountain Valley Resort

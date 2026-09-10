@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <span class="brand-name">{{ site.title }}</span>
+        <span class="brand-tag">{{ site.tagline }}</span>
+      </a>
+      <nav class="site-nav">
+        <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a>
+        <a href="{{ '/about/' | relative_url }}" {% if page.url == '/about/' %}class="active"{% endif %}>About</a>
+        <a href="{{ '/images/' | relative_url }}" {% if page.url == '/images/' %}class="active"{% endif %}>Images</a>
+        <a href="{{ '/aerial-panoramas/' | relative_url }}" {% if page.url == '/aerial-panoramas/' %}class="active"{% endif %}>Panoramas</a>
+        <a href="{{ '/videos/' | relative_url }}" {% if page.url == '/videos/' %}class="active"{% endif %}>Videos</a>
+        <a href="{{ '/contact/' | relative_url }}" {% if page.url == '/contact/' %}class="active"{% endif %}>Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p><strong>{{ site.title }}</strong> &mdash; {{ site.tagline }}</p>
+      <p>FAA UAS Part 107 Licensed &amp; Fully Insured</p>
+      <p class="copyright">&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <div id="lightbox" class="lightbox" aria-hidden="true">
+    <img id="lightbox-img" src="" alt="">
+  </div>
+  <script src="{{ '/assets/js/lightbox.js' | relative_url }}"></script>
+</body>
+</html>

@@ -33,7 +33,7 @@ We are a team of people from a wide variety of backgrounds that love capturing i
       3. Replace YOUR_FORM_ID below with your endpoint. Done — submissions land in your inbox.
       GitHub Pages can't process forms itself, which is why we use Formspree.
     -->
-    <form class="contact" action="https://formspree.io/f/https://formspree.io/f/xbgjwzqp" method="POST">
+    <form class="contact" action="https://formspree.io/f/xbgjwzqp" method="POST">
       <label for="name">Name</label>
       <input id="name" type="text" name="name" required autocomplete="name">
 

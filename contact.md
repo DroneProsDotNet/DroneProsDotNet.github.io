@@ -10,7 +10,7 @@ redirect_from:
 
 <h2 id="who-we-are">Who we are</h2>
 
-We are a team of people from a wide variety of backgrounds that love capturing images and videos from the sky. Our expert pilots, cinematographers and video editors have or are pursuing degrees in Filmmaking, Computer Engineering and Mechanical Engineering. We are passionate about our work and take pride in filling the needs of our clients.
+We are a team of people from a wide variety of backgrounds that love capturing images and videos from the sky. Our expert pilots, cinematographers and video editors have degrees in Filmmaking, Computer Engineering and Mechanical Engineering. We are passionate about our work and take pride in filling the needs of our clients.
 
 ![Team graphic]({{ '/assets/img/about-team-graphic.png' | relative_url }})
 
@@ -33,7 +33,7 @@ We are a team of people from a wide variety of backgrounds that love capturing i
       3. Replace YOUR_FORM_ID below with your endpoint. Done — submissions land in your inbox.
       GitHub Pages can't process forms itself, which is why we use Formspree.
     -->
-    <form class="contact" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+    <form class="contact" action="https://formspree.io/f/https://formspree.io/f/xbgjwzqp" method="POST">
       <label for="name">Name</label>
       <input id="name" type="text" name="name" required autocomplete="name">
 

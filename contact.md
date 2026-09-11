@@ -43,6 +43,7 @@ We are a team of people from a wide variety of backgrounds that love capturing i
       <label for="message">Tell us about your project</label>
       <textarea id="message" name="message" required></textarea>
 
+      <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
       <button class="btn" type="submit">Send Message</button>
     </form>
   </div>

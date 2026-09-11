@@ -1,0 +1,27 @@
+# Client / content-partner logos shown on the homepage.
+# To add, remove, or reorder logos, edit this list — no HTML changes needed.
+# Files live in assets/img/clients/.
+- file: client-01-gopro.png
+  alt: GoPro
+- file: client-02-discovery.png
+  alt: Discovery Channel
+- file: client-03-notre-dame.png
+  alt: Notre Dame
+- file: client-04-mit.png
+  alt: MIT
+- file: client-05-espn.png
+  alt: ESPN
+- file: client-06-weather-network.png
+  alt: The Weather Network
+- file: client-07-weather-channel.png
+  alt: The Weather Channel
+- file: client-08-coastal-heritage-bank.png
+  alt: Coastal Heritage Bank
+- file: client-09-lighthouse-race.png
+  alt: Lighthouse to Lighthouse Race
+- file: client-10-boston-harbor-cruises.png
+  alt: Boston Harbor Cruises
+- file: client-11-triumvirate.png
+  alt: Triumvirate Environmental
+- file: client-12-dji.png
+  alt: DJI

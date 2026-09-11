@@ -7,15 +7,15 @@ A Jekyll site (migrated from Squarespace) ready to deploy on GitHub Pages with t
 | Path | What it is |
 |---|---|
 | `index.md` | Homepage (`/`) — hero, aerial reel, feature sections |
-| `about.md` | About page (`/about/`) |
 | `images.md` | Photo gallery (`/images/`) |
 | `aerial-panoramas.md` | Panorama gallery (`/aerial-panoramas/`) |
 | `videos.md` | 19 YouTube embeds (`/videos/`) |
 | `puckerman.md` | "A Dog's Snow Day" feature (`/puckerman/`) |
-| `contact.md` | Contact form (`/contact/`) — needs Formspree, see below |
+| `contact.md` | About + contact form (`/contact/`) — `/about/` redirects here; needs Formspree, see below |
 | `assembly-row.md` | Assembly Row project (`/assembly-row/`) |
 | `404.html` | Custom not-found page |
-| `_data/gallery.yml`, `_data/panoramas.yml`, `_data/videos.yml` | Edit text, captions & videos here — no HTML needed |
+| `_data/gallery.yml`, `_data/panoramas.yml`, `_data/videos.yml`, `_data/clients.yml` | Edit text, captions, videos & logos here — no HTML needed |
+| `MAINTENANCE.md` | Yearly update guide: adding photos, changing wording |
 | `assets/img/` | All 40 site images, self-hosted (no more Squarespace CDN) |
 | `CNAME` | Custom domain file (`www.rediscoveryourworld.com`) |
 | `_config.yml` | Site title, tagline, plugins |

@@ -35,7 +35,7 @@ redirect_from:
     <div class="feature-text">
       <h2>Years of Experience</h2>
       <p>We have been providing high quality aerial media solutions for everything from real estate to sports events since 2014. We specialize in creating videos and capturing images from the unique perspective that you are only able to capture from the sky.</p>
-      <p><a class="btn btn-ghost" href="{{ '/about/' | relative_url }}">About Us</a></p>
+      <p><a class="btn btn-ghost" href="{{ '/contact/#who-we-are' | relative_url }}">About Us</a></p>
     </div>
   </div>
 
@@ -54,6 +54,10 @@ redirect_from:
 
 <section class="block center">
   <h2>Clients and Content Partners</h2>
-  <img src="{{ '/assets/img/home-client-grid.png' | relative_url }}" alt="Client and content partner logos" style="margin: 0 auto; max-width: 800px;">
+  <div class="logo-grid">
+    {% for c in site.data.clients %}
+    <div class="logo-cell"><img src="{{ '/assets/img/clients/' | append: c.file | relative_url }}" alt="{{ c.alt }}" loading="lazy"></div>
+    {% endfor %}
+  </div>
   <p style="margin-top: 1.5rem;"><a class="btn" href="{{ '/contact/' | relative_url }}">Work With Us</a></p>
 </section>

@@ -1,9 +1,20 @@
 ---
 layout: default
 title: Contact
+redirect_from:
+  - /about
+  - /about/
 ---
 
 # Contact
+
+<h2 id="who-we-are">Who we are</h2>
+
+We are a team of people from a wide variety of backgrounds that love capturing images and videos from the sky. Our expert pilots, cinematographers and video editors have or are pursuing degrees in Filmmaking, Computer Engineering and Mechanical Engineering. We are passionate about our work and take pride in filling the needs of our clients.
+
+![Team graphic]({{ '/assets/img/about-team-graphic.png' | relative_url }})
+
+## Get in touch
 
 <div class="contact-wrap">
   <div>
